@@ -17,6 +17,7 @@ decreaseBtn.addEventListener('click', function() {
 });
 
 resetBtn.addEventListener('click', function(){
+    c = 0;
     setCounter(0);
 })
 
